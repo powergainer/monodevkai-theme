@@ -1,0 +1,43 @@
+{
+    "name": "monodevkai",
+    "displayName": "MonoDevKai",
+    "description": "A cross between Monodev and Monokai Theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+	"publisher": "Heracles",
+	"author": {
+		"name": "Heracles"
+	},
+	"homepage": "https://github.com/powergainer/monodevkai-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/powergainer/monodevkai-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/powergainer/monodevkai-theme/issues"
+	},
+    "keywords": [
+        "theme",
+        "dark theme",
+        "c sharp",
+        "monokai",
+        "monodev",
+        "heracles"
+    ],
+	"icon": "heracles_logo.png",
+	"license": "GPLv3",
+	"categories": [
+		"Themes"
+	],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MonoDevKai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MonoDevKai-color-theme.json"
+            }
+        ]
+    }
+}
