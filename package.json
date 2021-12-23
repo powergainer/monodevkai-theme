@@ -2,7 +2,7 @@
     "name": "monodevkai",
     "displayName": "MonoDevKai",
     "description": "A cross between Monodev and Monokai Theme for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -22,11 +22,14 @@
         "theme",
         "dark theme",
         "c sharp",
+        "c++",
+        "python",
         "monokai",
         "monodev",
-        "heracles"
+        "heracles",
+        "unity"
     ],
-	"icon": "heracles_logo.png",
+	"icon": "monodevkai_logo.png",
 	"license": "GPLv3",
 	"categories": [
 		"Themes"
