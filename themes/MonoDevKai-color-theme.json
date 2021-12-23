@@ -13,21 +13,21 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#75715E"
+        "foreground": "#74705d"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#4ADEAC"
+        "foreground": "#48dbaa"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#4ADEAC"
+        "foreground": "#48dbaa"
       }
     },
     {
@@ -49,14 +49,14 @@
         "punctuation.separator.hash"
       ],
       "settings": {
-        "foreground": "#F92672"
+        "foreground": "#f72572"
       }
     },
     {
       "name": "Type",
       "scope": ["storage.type"],
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#66d7ed"
       }
     },
     {
@@ -89,7 +89,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#F72572"
       }
     },
     {
@@ -109,7 +109,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#4ADEAC"
+        "foreground": "#48dbaa"
       }
     },
     {
@@ -120,7 +120,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#4ADEAC"
+        "foreground": "#48dbaa"
       }
     },
     {
@@ -167,7 +167,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#66D9EF"
+        "foreground": "#66d7ed"
       }
     },
     {
@@ -278,8 +278,8 @@
   ],
   "semanticTokenColors": {
     "namespace": "#f8f8f2",
-    "class": "#66D9EF",
-    "struct": "#66D9EF",
-    "operatorOverloaded": "#f92672"
+    "class": "#66d7ed",
+    "struct": "#66d7ed",
+    "operatorOverloaded": "#F72572"
   }
 }
