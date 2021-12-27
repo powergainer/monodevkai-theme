@@ -274,7 +274,62 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
+},
+
+    {
+      "name": "Variable other object",
+      "scope": [ "variable.other.object" ],
+      "settings": {
+        "foreground": "#66d7ed"
+      }
+    },
+
+    {
+      "name": "Local variable entity name",
+      "scope": [ "entity.name.variable.local" ],
+      "settings": {
+        "foreground": "#f7fcfa"
+      }
+    },
+
+    {
+      "name": "Variable other object properties",
+      "scope": [ "variable.other.object.property" ],
+      "settings": {
+        "foreground": "#48DBAA"
+      }
+    },
+
+
+    {
+      "name": "Logical and comparison operator symbols",
+      "scope": [ "keyword.operator.logical",
+      "keyword.operator.comparison",
+      "keyword.operator.assignment"],
+      "settings": {
+        "foreground": "#f7fcfa"
+      }
+    },
+
+
+    {
+      "name": "Boolean constants and null",
+      "scope": [ "constant.language.boolean",
+      "constant.language.null"],
+      "settings": {
+        "foreground": "#F72572"
+      }
+    },
+
+
+    {
+      "name": "This keyword",
+      "scope": ["keyword.other.this"],
+      "settings": {
+        "foreground": "#ac0742"
+      }
     }
+
   ],
   "semanticTokenColors": {
     "namespace": "#f8f8f2",
